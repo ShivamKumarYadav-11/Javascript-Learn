@@ -1,0 +1,9 @@
+<-----Note POints ----->
+
+1- primitive Data Type -> Call by value [ Boolean, Number, String, Null, Undefined, Symbole, BigInt ]
+
+2- primitive Data Type use Stack ( it contains value as a copy)
+
+3- Non primtive (Refrence) -> Call by Refrence [ Array, Object, Function
+
+4- Non primitive Data Type use Heap ( it contains value as a refrence)
