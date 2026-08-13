@@ -104,3 +104,99 @@ node 08_dates.js
 * This repository is created for learning and practicing **JavaScript fundamentals**. It serves as a quick reference for beginners who are starting their JavaScript journey.
 
 ---
+
+
+# 📘 02_Array_Objects_js
+
+# 🚀 JavaScript Arrays & Objects Learning
+
+* Welcome to my JavaScript learning repository!  
+* This folder contains simple examples focused on **Arrays and Objects**, two of the most important concepts in JavaScript.
+
+## 📂 Folder Structure (02_Array_Objects_js)
+```
+02_Array_Objects_js/
+├── 01_array.js
+├── 02_array_operation.js
+├── 03_object_literals.js
+└── 04_object_singaltan.js
+```
+
+## 📄Files and Description (02_Array_Objects_js)
+
+| File Name              | Description |
+|------------------------|-------------|
+| `01_array.js`          | Learn how to declare arrays, access array elements, and apply different array methods |
+| `02_array_operation.js` | Learn how different operations work on arrays like add, remove, update, and manipulate data |
+| `03_object_literals.js`         | Learn how to declare objects, access object elements, and apply different methods on objects |
+| `04_object_singaltan.js`         | Learn singleton object declaration, nested object creation, accessing object elements, object destructuring, and advanced object methods |
+
+
+## 📚 Topics Covered
+
+### 📌 Arrays
+- Array declaration
+- Accessing array elements
+- Common array methods
+- Array operations (add, remove, update)
+
+### 📌 Objects
+* Object declaration
+* Accessing object properties
+* Object methods
+* Singleton objects
+* Nested objects
+* Object destructuring
+
+
+## 🛠️ Prerequisites
+
+Before running the examples, make sure you have:
+
+* Basic understanding of JavaScript fundamentals  
+* Node.js installed (optional but recommended)
+* Check Node.js installation:
+
+```bash
+node -v
+```
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd your-repository-name
+```
+
+3. Run Individual JS Files:
+
+```bash
+node 01_array.js
+```
+
+```bash
+node 02_array_operation.js
+```
+
+```bash
+node 03_object_literals.js
+```
+```bash
+node 04_object_singaltan.js
+```
+
+
+## 🎯 Purpose
+
+* This repository is created for learning and practicing **JavaScript Arrays and Objects**.  
+* It helps beginners understand how data structures work in JavaScript with simple and clear examples.
+
+---
+
