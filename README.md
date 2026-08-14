@@ -14,7 +14,7 @@
 ├── 02_datatype.js
 ├── 03_conversion_of_datatype.js
 ├── 04_operators.js
-├── 05_notes.txt
+├── 05_Stack&Heap.js
 ├── 06_strings.js
 ├── 07_number.js
 └── 08_dates.js
@@ -28,7 +28,7 @@
 | `02_datatype.js`             | Overview of JavaScript data types (Primitive & Non-Primitive) |
 | `03_conversion_of_datatype.js` | Type conversion                   |
 | `04_operators.js`            | Arithmetic, comparison, logical, and assignment operators     |
-| `05_notes.txt`               | Quick notes on JavaScript data types, Stack and Heap memory   |
+| `05_Stack&Heap.js`           | Quick notes on JavaScript data types, Stack and Heap memory   |
 | `06_Stringdeclear.js`        | String declaration and string methods                         |
 | `07_number.js`               | Number data type and useful number methods                    |
 | `08_dates.js`                | Working with dates and time in JavaScript                     |
