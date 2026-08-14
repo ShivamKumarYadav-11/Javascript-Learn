@@ -85,9 +85,12 @@ node 03_conversion_of_datatype.js
 ```bash
 node 04_operators.js
 ```
+```bash
+node 05_Stack&Heap.js
+```
 
 ```bash
-node 06_strings.js
+node 06_Stringdeclear.js
 ```
 
 ```bash
