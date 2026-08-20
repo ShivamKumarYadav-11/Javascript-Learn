@@ -203,3 +203,106 @@ node 04_object_singaltan.js
 
 ---
 
+
+# 📘 03_Function_js
+# 🚀 JavaScript Functions, Scope, Arrow Functions & IIFE
+
+A beginner-friendly JavaScript repository that demonstrates fundamental concepts of functions, parameters, objects, arrays, scope, arrow functions, the `this` keyword, and IIFE (Immediately Invoked Function Expressions).
+
+
+## 📁 Folder Structure
+
+```text
+03_Function_js/
+├── 01_function_parameter.js
+├── 02_function_objects_array.js
+├── 03_scope.js
+├── 04_arrow_this_function.js
+└── 05_IIFE.js
+```
+
+
+## 📋 Files and Description
+
+| File Name                      | Description                                                                                                 |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| `01_function_parameter.js`     | Learn how to declare functions, pass parameters and arguments, call functions, and return values.           |
+| `02_function_objects_array.js` | Learn how to create objects and arrays and pass them as parameters to functions.                            |
+| `03_scope.js`                  | Learn JavaScript scope concepts including global scope, function scope, and block scope.                    |
+| `04_arrow_this_function.js`    | Learn arrow functions, the `this` keyword, and the differences between regular and arrow functions.         |
+| `05_IIFE.js`                   | Learn how to declare and use IIFE (Immediately Invoked Function Expressions) and understand their benefits. |
+
+
+## 📚 Topics Covered
+
+* Function Declaration
+* Function Parameters
+* Function Arguments
+* Return Statements
+* Objects
+* Arrays
+* Passing Objects to Functions
+* Passing Arrays to Functions
+* Global Scope
+* Function Scope
+* Block Scope
+* Arrow Functions
+* `this` Keyword
+* IIFE (Immediately Invoked Function Expression)
+
+
+## 🛠️ Prerequisites
+
+Before running the examples, make sure you have:
+
+* Basic understanding of JavaScript syntax
+* Node.js installed on your system
+
+Check Node.js installation:
+
+```bash
+node -v
+```
+
+
+## ▶️ How to Run
+
+1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+2. Navigate to the Project Folder
+
+```bash
+cd your-repository-name
+```
+
+3. Run Individual JS Files:
+
+```bash
+node 01_function_parameter.js
+```
+
+```bash
+node 02_function_objects_array.js
+```
+
+```bash
+node 03_scope.js
+```
+
+```bash
+node 04_arrow_this_function.js
+```
+
+```bash
+node 05_IIFE.js
+```
+
+## 🎯 Purpose
+
+ This repository is to help beginners understand core JavaScript concepts related to functions and scope through simple examples.
+
+---
