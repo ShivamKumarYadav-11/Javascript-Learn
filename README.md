@@ -306,3 +306,179 @@ node 05_IIFE.js
  This repository is to help beginners understand core JavaScript concepts related to functions and scope through simple examples.
 
 ---
+
+# 📘 04_Conditional_Loop_js 
+# 🚀JavaScript: Conditionals, Loops, and Higher-Order Array Methods
+
+This repository contains JavaScript examples covering conditional statements, loops, truthy/falsy values, and higher-order array methods. It is designed for beginners who want to build a strong foundation in JavaScript programming.
+
+
+## 📁 Folder Structure
+
+```text
+04_Conditional_Loop_js/ 
+├── 01_if_else.js
+├── 02_switch.js
+├── 03_truthy_false.js
+├── 04_loops.js
+├── 05_highorder_loop.js
+├── 06_filter.js
+├── 07_map.js
+└── 08_reduce.js
+
+```
+
+## 📋 Files and Description
+
+| File Name            | Description                                                                                                                            |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `01_if_else.js`      | Learn how to declare, use, and execute `if`, `else if`, and `else` statements for decision-making.                                     |
+| `02_switch.js`       | Learn how to declare, use, and execute `switch` statements to handle multiple conditions efficiently.                                  |
+| `03_truthy_false.js` | Learn about truthy and falsy values, the Nullish Coalescing Operator (`??`), and the Ternary Operator (`condition ? value1 : value2`). |
+| `04_loops.js`        | Learn basic loops such as `for`, `while`, and `do...while`, including their syntax and usage.
+| `05_highorder_loop.js` | Learn higher-order loops including `for...of`,`for...in`, and `forEach()`, their syntax, and practical use cases.examples. |
+| `06_filter.js`         | Learn the `filter()` method, how to declare it, and where to use it for filtering data based on conditions.                                       |
+| `07_map.js`            | Learn the `map()` method, how to declare it, and where to use it for transforming array elements into a new array.                                |
+| `08_reduce.js`         | Learn the `reduce()` method, how to declare it, and where to use it for reducing an array into a single value such as a sum or total.             |
+
+
+## 📚 Topics Covered
+
+### Conditional Statements
+
+* `if` Statement
+* `if...else` Statement
+* `if...else if...else` Statement
+
+### Switch Statement
+
+* `switch` Syntax
+* `case` Statements
+* `break` Keyword
+* `default` Case
+
+### Truthy and Falsy Values
+
+* Truthy Values
+* Falsy Values
+* Boolean Conversion
+
+### Operators
+
+* Nullish Coalescing Operator (`??`)
+* Ternary Operator (`?:`)
+
+### Loops
+
+* `for` Loop
+* `while` Loop
+* `do...while` Loop
+* Loop Execution Flow
+
+### Higher-Order Loops
+* `for...of` Loop
+* `for...in` Loop
+* `forEach()` Method
+
+### Array Methods
+* `filter()` Method
+* `map()` Method
+* `reduce()` Method
+* Array Iteration
+
+
+
+## 🛠️ Prerequisites
+
+Before running the examples, make sure you have:
+
+* Basic understanding of JavaScript
+* Node.js installed on your system
+
+Check Node.js installation:
+
+```bash
+node -v
+```
+
+
+## ▶️ How to Run
+
+1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+2. Navigate to the Project Directory
+
+```bash
+cd your-repository-name
+```
+
+3. Run Individual Files
+
+```bash
+node 01_if_else.js
+```
+
+```bash
+node 02_switch.js
+```
+
+```bash
+node 03_truthy_false.js
+```
+
+```bash
+node 04_loops.js
+```
+```bash
+node 05_highorder_loop.js
+```
+
+```bash
+node 06_filter.js
+```
+
+```bash
+node 07_map.js
+```
+
+```bash
+node 08_reduce.js
+```
+
+## 🎯 Purpose
+
+The purpose of this repository is to help How learn and practice JavaScript conditional statements, loops, higher-order loops, and array methods (`filter`, `map`, and `reduce`) through simple examples.
+
+After completing these examples, you will be able to:
+
+* Write conditional logic using `if` and `switch`
+* Understand truthy and falsy values
+* Use the Nullish Coalescing Operator (`??`)
+* Use the Ternary Operator for concise conditions
+* Create and execute loops efficiently
+* Understand how program flow works in JavaScript
+* Learn different JavaScript looping techniques `for...of`, `for...in` and `forEach()`
+* Understand `filter()`,  `map()` and `reduce()`
+
+
+## 🎓 Learning Outcomes
+
+By the end of this repository, you will have a solid understanding of:
+
+* Decision-making in JavaScript
+* Control flow statements
+* Conditional operators
+* Iteration using loops
+*  Use `for...of` to iterate through iterable objects.
+* Use `for...in` to iterate through object properties.
+* Use `forEach()` to execute a function for each array element.
+* Use `filter()` to create filtered arrays.
+* Use `map()` to transform array data.
+* Use `reduce()` to aggregate array values into a single result.
+* Writing cleaner and more readable code
+  
+---
